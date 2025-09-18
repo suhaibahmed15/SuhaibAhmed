@@ -18,6 +18,7 @@ I specialize in developing responsive, user-centric web applications and enjoy t
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhaib-ahmed11/)
+📧 [suhaibahmed099@gmail.com](mailto:suhaibahmed099@gmail.com)
 
 ---
 
